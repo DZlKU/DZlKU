@@ -41,15 +41,15 @@
       <table border="1" width="100%" cellpadding="6" style="border-collapse: collapse; border-color: #334155;">
         <tr>
           <td bgcolor="#0f172a"><b>Languages</b></td>
-          <td>C++17 / C++20, HLSL, Python</td>
+          <td>C++17 / C++20, HTML5, CSS3, JavaScript, TypeScript, GDScript</td>
         </tr>
         <tr>
           <td bgcolor="#0f172a"><b>Engine</b></td>
-          <td>Unreal Engine 4.27 / 5, GAS, Netcode</td>
+          <td>Unreal Engine 4.27 / 5, Godot Engine</td>
         </tr>
         <tr>
           <td bgcolor="#0f172a"><b>Profiling</b></td>
-          <td>Unreal Insights, Visual Studio, RenderDoc</td>
+          <td>Unreal Insights, Rider, Visual Studio</td>
         </tr>
         <tr>
           <td bgcolor="#0f172a"><b>Tools</b></td>
@@ -124,28 +124,3 @@
   <p>Example snippet of a replicated item component interface written in clean C++ for Unreal Engine 4.27:</p>
 
 ```cpp
-// Replicated Component Header Sample
-#pragma once
-
-#include "CoreMinimal.h"
-#include "Components/ActorComponent.h"
-#include "UObject/CoreNet.h"
-#include "MyInventoryComponent.generated.h"
-
-UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
-class MYPROJECT_API UMyInventoryComponent : public UActorComponent
-{
-    GENERATED_BODY()
-
-public:	
-    UMyInventoryComponent();
-
-protected:
-    virtual void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
-
-    UPROPERTY(ReplicatedUsing = OnRep_InventoryUpdated, BlueprintReadOnly, Category = "Inventory")
-    TArray<FName> InventoryItems;
-
-    UFUNCTION()
-    void OnRep_InventoryUpdated();
-};
