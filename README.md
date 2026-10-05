@@ -1,10 +1,11 @@
+<font face="Georgia, Garamond, 'Times New Roman', serif">
 
 <div align="center">
   <br />
   <h1>SEBASTIAN BEDNARZ</h1>
   <h3><code>C++ & UNREAL ENGINE GAMEPLAY ENGINEER</code></h3>
 
-  <img width="1376" height="768" alt="Gemini_Generated_Image_71m70k71m70k71m7" src="https://github.com/user-attachments/assets/7637b305-1c2c-476f-aa11-05e269ee7a9b" />
+  <img width="1376" height="768" alt="Banner" src="https://github.com/user-attachments/assets/7637b305-1c2c-476f-aa11-05e269ee7a9b" />
 
   <br /><br />
 
@@ -21,7 +22,6 @@
 </div>
 
 <hr />
-
 
 <table border="0" width="100%" cellspacing="0" cellpadding="10">
   <tr valign="top">
@@ -58,7 +58,6 @@
         </tr>
       </table>
     </td>
-
   </tr>
 </table>
 
@@ -113,7 +112,6 @@
         </tr>
       </table>
     </td>
-
   </tr>
 </table>
 
@@ -125,3 +123,4 @@
   <p>Example snippet of a replicated item component interface written in clean C++ for Unreal Engine 4.27:</p>
 
 ```cpp
+// Przykładowy kod C++
