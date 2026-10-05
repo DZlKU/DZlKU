@@ -1,8 +1,6 @@
 <div align="center">
-
-  <!-- BANNER / WANTED POSTER HEADER -->
   <br />
-  <h1>🤠 SEBASTIAN BEDNARZ 🪓</h1>
+  <h1>SEBASTIAN BEDNARZ</h1>
   <h3><code>C++ & UNREAL ENGINE GAMEPLAY ENGINEER</code></h3>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkYWtrN2Rnb3F4czJ4OXVpeXZsdTF2ZXd1YjlndXRvczl2Z2p3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ECoYUBS0V3GS4/giphy.gif" width="100%" max-width="700px" style="border-radius: 8px;" alt="Red Dead / God of War Vibe Banner" />
@@ -23,11 +21,9 @@
 
 <hr />
 
-<!-- UKŁAD DWUKOLUMNOWY (TABLE-BASED GRID) -->
+
 <table border="0" width="100%" cellspacing="0" cellpadding="10">
   <tr valign="top">
-    
-    <!-- LEWA KOLUMNA: THE JOURNAL (ABOUT ME) -->
     <td width="50%">
       <h3>📜 THE JOURNAL</h3>
       <p>
@@ -40,8 +36,6 @@
         <li><b>Availability:</b> Open for US East/West Coast time zone overlap.</li>
       </ul>
     </td>
-
-    <!-- PRAWA KOLUMNA: WEAPONS & ARSENAL (TECH STACK) -->
     <td width="50%">
       <h3>⚔️ EQUIPMENT & ARSENAL</h3>
       <table border="1" width="100%" cellpadding="6" style="border-collapse: collapse; border-color: #334155;">
@@ -69,7 +63,6 @@
 
 <hr />
 
-<!-- QUEST LOG: MIEJSCE NA GIF-Y I POKAZ SYSTEMÓW -->
 <div align="center">
   <h2>🗡️ QUEST LOG & SHOWCASE</h2>
   <p><i>Real-time C++ systems running live in Unreal Engine</i></p>
@@ -79,8 +72,6 @@
 
 <table border="0" width="100%" cellspacing="0" cellpadding="10">
   <tr valign="top">
-    
-    <!-- CARD 1: MULTIPLAYER NETCODE -->
     <td width="50%" align="center">
       <table border="1" width="100%" cellpadding="10" style="border-collapse: collapse; border-color: #d97706;">
         <tr>
@@ -101,8 +92,6 @@
         </tr>
       </table>
     </td>
-
-    <!-- CARD 2: GAS COMBAT SYSTEM -->
     <td width="50%" align="center">
       <table border="1" width="100%" cellpadding="10" style="border-collapse: collapse; border-color: #d97706;">
         <tr>
@@ -129,7 +118,6 @@
 
 <br /><hr />
 
-<!-- EXPANDABLE CODE SNIPPET (DETAILS / SUMMARY) -->
 <details>
   <summary><b>📜 CLICK TO INSPECT ARCHITECTURE CODE SAMPLE (C++)</b></summary>
   <br />
