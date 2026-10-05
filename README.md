@@ -3,7 +3,7 @@
   <h1>SEBASTIAN BEDNARZ</h1>
   <h3><code>C++ & UNREAL ENGINE GAMEPLAY ENGINEER</code></h3>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkYWtrN2Rnb3F4czJ4OXVpeXZsdTF2ZXd1YjlndXRvczl2Z2p3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ECoYUBS0V3GS4/giphy.gif" width="100%" max-width="700px" style="border-radius: 8px;" alt="Red Dead / God of War Vibe Banner" />
+  <img src="https://i.pinimg.com/originals/9c/c5/ff/9cc5ff9fce0bc0fb265f3a179160108f.gif" width="100%" max-width="700px" style="border-radius: 8px;" alt="Red Dead / God of War Vibe Banner" />
 
   <br /><br />
 
